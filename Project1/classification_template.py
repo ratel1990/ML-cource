@@ -62,3 +62,4 @@ if __name__ == "__main__":
     print("A = ", A)
     print("Tested", time.time() - starttime)
     # TODO: evaluate quality here
+    ###
